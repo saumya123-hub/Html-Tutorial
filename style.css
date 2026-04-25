@@ -1,0 +1,15 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.h1{
+    color: rgb(0, 255, 149);
+    align-content: center;
+    padding: 0;
+    margin: 0;
+}
+.h2{
+    color: blueviolet;
+    align-content: center;
+}

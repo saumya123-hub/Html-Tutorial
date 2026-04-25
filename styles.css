@@ -1,0 +1,23 @@
+   h1{
+            margin-bottom: 0px;
+        }
+        h3,h3{
+            margin: 0px 0;
+        }
+        body {
+            font-family: Arial;
+            text-align: center;
+        }
+        table {
+            border-collapse: collapse;
+            width: 90%;
+            margin: auto;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+        }
+        imag{
+            align-items: left;
+        }
+    
